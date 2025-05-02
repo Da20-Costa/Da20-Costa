@@ -27,6 +27,7 @@
 - Git e Controle de Versão
 - Memória
 - Flask
+- (Tudo isso ainda será estudado no curso que estou fazendo do CS50)
 
 ---
 
