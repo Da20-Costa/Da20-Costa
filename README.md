@@ -11,18 +11,17 @@
 ## 💻 Tecnologias que utilizo
 
 ![C](https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C)
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🌱 Atualmente estudando
+## 🌱 Atualmente estudando ou o que será estudado ainda
 
-- C, Python, HTML, CSS e JavaScript
+- ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 - Estruturas de Dados e Algoritmos
 - Git e Controle de Versão
 - Memória
