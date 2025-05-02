@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Davi de Sousa Costa</h1>
+<h1 align="center">Olá! 👋 Eu sou Davi de Sousa Costa</h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação no <strong>UniCEUB</strong>  
