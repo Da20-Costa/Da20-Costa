@@ -22,6 +22,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/-c#-333?style=for-the-badge&logo=c#)
 - Estruturas de Dados e Algoritmos
 - Git e Controle de Versão
 - Memória
